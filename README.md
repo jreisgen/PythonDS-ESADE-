@@ -1,2 +1,9 @@
-Exercises from first lecture from Python course in notebook exercise1.ipynb in main branch
-Exercises from second lecture have a separate branch each
+ESADE - Python for Data Science course - MSc in Business Analytics.
+
+Lecture 1: 17 Python exercises, solved in exercise1.ipynb notebook. 
+
+Lecture 2: 4 Python exercises, all added in own branch and then merged with main.
+
+
+
+
