@@ -16,7 +16,7 @@ def fizzbuzz(n):
     elif n % 5 == 0:
         return "Buzz"
     else:
-        return (n)
+        return ()
     
     
 for i in range(1,21):
