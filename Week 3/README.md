@@ -18,5 +18,5 @@ Step 2: Install Required Libraries:
 Navigate into the cloned directory:
 cd PythonDS-ESADE-
 
-Then, install the required Python libraries:
+Then install the required Python libraries:
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
